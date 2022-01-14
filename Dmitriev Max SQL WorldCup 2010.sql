@@ -1,7 +1,7 @@
 ----------------------------------------------
--- Title:	WorldCup 2010 Exam Paper        --
--- Author:	Max Dmitriev                    --
--- Date:	13.12.2019                      --
+-- Title:	WorldCup 2010 Exam Paper    --
+-- Author:	Max Dmitriev                --
+-- Date:	13.12.2019                  --
 ----------------------------------------------
 
 IF DB_ID('WorldCup2010') IS NOT NULL
